@@ -10,6 +10,11 @@ This project displays random Chuck Norris jokes fetched from an external API. Th
 - Button to fetch a new joke.
 - Responsive design with centered content.
 
+### Live Demo
+
+[Click Me! 'https://chuck-norris-io-api.netlify.app/'](https://chuck-norris-io-api.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25540d0a-5b3c-4df4-b2b8-142ccfd4c4a9/deploy-status)](https://app.netlify.com/sites/chuck-norris-io-api/deploys)
+
 ## Technologies Used
 
 - HTML
